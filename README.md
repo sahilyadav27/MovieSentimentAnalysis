@@ -8,5 +8,5 @@ Also, Dropout is added to the Dense layer after BiLSTM. This is because by addin
 Apart from this, data cleaning is also done in order to convert both the datasets into a common structure and remove N/A values. 
 
 # Environment
-Language: Python 3
+Language: Python 3 <p>
 Libraries: Keras, NLTK, Pandas
